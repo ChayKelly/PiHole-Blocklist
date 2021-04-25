@@ -6,4 +6,4 @@ graph.facebook.com
 0.gravar.com
 cdn.mouseflow.com
 li.blogtrottr.com
-ir.ebaystatic.com
+m.media-amazon.com
