@@ -6,7 +6,6 @@ graph.facebook.com
 0.gravar.com
 cdn.mouseflow.com
 li.blogtrottr.com
-m.media-amazon.com
 adobe.io
 adobelogin-origin.prod.ims.adobejanus.com
 adobe.com
@@ -14,3 +13,5 @@ behance.net
 browsealoud.com
 js.intercomcdn.com
 click4assistance.co.uk
+smartdm.lenovo.com
+smartdmdl-pvt.lenovo.com
