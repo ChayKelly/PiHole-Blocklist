@@ -3,7 +3,6 @@ connect.facebook.net
 a.quora.com
 cdn.searchengineland.com
 graph.facebook.com
-0.gravar.com
 cdn.mouseflow.com
 li.blogtrottr.com
 adobe.io
@@ -18,3 +17,7 @@ smartdmdl-pvt.lenovo.com
 nleditor.osi.office.net
 ncc.avast.com
 roaming.officeapps.live.com
+secure.gravatar.com
+0.gravatar.com
+1.gravatar.com
+2.gravatar.com
