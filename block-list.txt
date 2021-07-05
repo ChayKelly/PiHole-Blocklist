@@ -17,3 +17,4 @@ smartdm.lenovo.com
 smartdmdl-pvt.lenovo.com
 nleditor.osi.office.net
 ncc.avast.com
+roaming.officeapps.live.com
