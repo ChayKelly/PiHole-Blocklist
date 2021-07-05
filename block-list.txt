@@ -15,3 +15,4 @@ js.intercomcdn.com
 click4assistance.co.uk
 smartdm.lenovo.com
 smartdmdl-pvt.lenovo.com
+nleditor.osi.office.net
