@@ -5,6 +5,7 @@ cdn.searchengineland.com
 graph.facebook.com
 cdn.mouseflow.com
 li.blogtrottr.com
+p13n.adobe.io
 adobe.io
 adobelogin-origin.prod.ims.adobejanus.com
 adobe.com
