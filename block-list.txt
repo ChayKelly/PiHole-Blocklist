@@ -29,3 +29,4 @@ emupdate.avcdn.net
 ip-info.ff.avast.com
 analytics.ff.avast.com
 armf.adobe.com
+cdn.discordapp.com
