@@ -30,3 +30,5 @@ ip-info.ff.avast.com
 analytics.ff.avast.com
 armf.adobe.com
 cdn.discordapp.com
+mask.icloud.com
+mask-h2.icloud.com
