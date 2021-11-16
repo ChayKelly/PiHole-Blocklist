@@ -32,3 +32,8 @@ armf.adobe.com
 cdn.discordapp.com
 mask.icloud.com
 mask-h2.icloud.com
+platform.twitter.com
+monitor.channel4.com
+cdn.http.anno.channel4.com
+webstats.channel4.com
+ic.channel4.com
