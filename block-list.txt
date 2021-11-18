@@ -37,3 +37,5 @@ monitor.channel4.com
 cdn.http.anno.channel4.com
 webstats.channel4.com
 ic.channel4.com
+cdn.livechatinc.com
+api.livechatinc.com
