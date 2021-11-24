@@ -41,3 +41,4 @@ cdn.livechatinc.com
 api.livechatinc.com
 fr-app-chat-global-xiaomi-net1-1667981913.eu-central-1.elb.amazonaws.com
 gifmaker.me
+code.tidio.co
