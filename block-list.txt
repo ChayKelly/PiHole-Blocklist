@@ -37,4 +37,9 @@ monitor.channel4.com
 cdn.http.anno.channel4.com
 webstats.channel4.com
 ic.channel4.com
-widget.reviewability.com
+cdn.livechatinc.com
+api.livechatinc.com
+fr-app-chat-global-xiaomi-net1-1667981913.eu-central-1.elb.amazonaws.com
+gifmaker.me
+code.tidio.co
+video-streaming.ezoic.com
