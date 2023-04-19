@@ -45,3 +45,5 @@ code.tidio.co
 video-streaming.ezoic.com
 widget.reviewability.com
 api1.websuccess-data.com
+api.livechatinc.com
+cdn.livechatinc.com
