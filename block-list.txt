@@ -48,3 +48,4 @@ api1.websuccess-data.com
 api.livechatinc.com
 cdn.livechatinc.com
 app.qualified.com
+bot.leadoo.com
