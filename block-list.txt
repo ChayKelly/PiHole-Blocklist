@@ -49,3 +49,4 @@ api.livechatinc.com
 cdn.livechatinc.com
 app.qualified.com
 bot.leadoo.com
+ls.dtrace.nvidia.com
