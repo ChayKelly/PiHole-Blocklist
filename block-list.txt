@@ -51,3 +51,12 @@ app.qualified.com
 bot.leadoo.com
 ls.dtrace.nvidia.com
 external-preview.redd.it
+tile-service.weather.microsoft.com
+api1.websuccess-data.com
+log.tailscale.io
+stats.g.doubleclick.ne
+js-agent.newrelic.com
+www.gravatar.com
+jetpack.wordpress.com
+ymatuhin.ru
+cdn.jwplayer.com
